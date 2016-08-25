@@ -1,0 +1,26 @@
+_repo: Black-Beetles-in-Amber_12977
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bierce, Ambrose
+    alias: Grile, Dod
+    birthdate: 1842
+    deathdate: 1913
+    gutenberg_agent_id: '206'
+    url: http://www.gutenberg.org/2009/agents/206
+    wikipedia: http://en.wikipedia.org/wiki/Ambrose_Bierce
+description: ''
+gutenberg_issued: '2004-07-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12977'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+- GITenberg
+title: Black Beetles in Amber
+url: http://www.gutenberg.org/ebooks/12977
